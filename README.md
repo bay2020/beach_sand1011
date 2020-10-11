@@ -20,5 +20,5 @@ var kk=1;
 [george town](https://eyesonplace.net/wp-confftent/uploads/2019/01/mal.jpg "george town")
 
 
-[看貓咪](https://cnn.com)
-![看看dream](https://i1.kkffffnews.cc/SIG=1adhfqi/3218000240213sr87s3s.jpg "美麗的胖貓")
+[看cnn](https://cnn.com)
+![看看寶貝](https://upload.wikimedia.org/wikipedia/commons/1/16/Nucleolaria_granulata_001.jpg "美麗的寶貝")
